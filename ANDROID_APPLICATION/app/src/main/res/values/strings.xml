@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">5GSMARTG-Subscriber</string>
+    <string name="LAUNCH_PLOT_ACTIVITY">com.andrea.5gsmartg.PlotActivity</string>
+</resources>
